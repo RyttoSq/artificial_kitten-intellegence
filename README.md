@@ -5,5 +5,5 @@
 - Progression around all mods
 - A complete overhaul of golden era modpack guidelines
 - Draconic Evolution and Avaritia as endgame possibilities
-- Features from newer version of Minecraft
+- Features from newer versions of Minecraft
 
